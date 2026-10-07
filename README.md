@@ -656,7 +656,7 @@ Git
 
 1. Clone the Repository
 
-git clone https://github.com/pradeeprathore-dev/HRMS-Management-System.git
+git clone https://github.com/Nitin-Tiwari-6260/HRMS.git
 
 2. Open the Solution
 

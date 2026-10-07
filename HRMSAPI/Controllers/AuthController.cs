@@ -96,7 +96,7 @@ namespace HRMSAPI.Controller
             if (user == null)
             {
                 return Unauthorized(new
-                {
+                { 
                     Success = false,
                     Message = "Invalid Username"
                 });
